@@ -1,6 +1,6 @@
 ## Hi my name is John.
 
-#### Senior Cloud Infrastructure Engineer
+#### Principal Platform Engineer
 
 I am a dedicated engineer that enjoys everything that has to do with technology and cool engineering topics.
 
